@@ -5,3 +5,5 @@
 - :gift_heart::cn: Focusing on Kotlin & Android
 
 - :hammer: Creator of applications and frameworks
+
+![developer](./assets/developer_programing.svg)
