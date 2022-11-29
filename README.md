@@ -2,12 +2,13 @@
 
 ### Hi , Nice to meet you !  👋
 
+![jetpack](https://img.shields.io/badge/志威-Github-brightgreen.svg) ![主页浏览](https://komarev.com/ghpvc/?username=imzhiwei) ![Github followers](https://img.shields.io/github/followers/imzhiwei.svg?style=social&label=follow)
+
 - :gift_heart::cn: Focusing on Kotlin & Android
 
 - :hammer: Creator of applications and frameworks
 
-
-
-
+<br><br>
+<!-- -->
 
 ![developer](./assets/developer_programing.svg)
