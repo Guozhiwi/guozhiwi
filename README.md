@@ -8,6 +8,7 @@
 
 - :hammer: Creator of applications and frameworks
 
+![Github Contribution Grid Snack](https://raw.githubusercontent.com/imzhiwei/imzhiwei/main/assets/github-contribution-grid-snake.svg)
 <br><br>
 <!-- -->
 
