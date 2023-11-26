@@ -2,7 +2,7 @@
 
 ### Hi , Nice to meet you !  👋
 
-![jetpack](https://img.shields.io/badge/志威-Github-brightgreen.svg) ![主页浏览](https://komarev.com/ghpvc/?username=iOrchid) ![Github followers](https://img.shields.io/github/followers/iOrchid.svg?style=social&label=follow)
+![jetpack](https://img.shields.io/badge/iOrchid-Github-brightgreen.svg) ![主页浏览](https://komarev.com/ghpvc/?username=iOrchid) ![Github followers](https://img.shields.io/github/followers/iOrchid.svg?style=social&label=follow)
 
 - :gift_heart::cn: Focusing on Kotlin & Android
 
